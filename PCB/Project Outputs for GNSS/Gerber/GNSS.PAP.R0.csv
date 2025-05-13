@@ -1,0 +1,68 @@
+Altium Designer Pick and Place Locations
+D:\WORKSPACE\NEO-M8N-ODIN-W262-GPS\PCB\Project Outputs for GNSS\Gerber\GNSS.PAP.R0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/05/25
+Time:       16:41
+Revision:   Not in VersionControl
+Variant:    Variant of GNSS
+Units used: mm
+
+"Designator","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","DES"
+"D2","TopLayer","150141M173100","12.5000","32.6000","270","WL-SFTW SMD Full-color TOP LED Waterclear, size 5050, Red & Green & Blue, 120deg"
+"R13","TopLayer","RESC1608N","35.3284","17.0337","90","Thin Film Resistors .1W 2Mohms 1% 0603 50ppm"
+"U1","TopLayer","SOT223","26.2528","8.0150","0","TEXAS INSTRUMENTS  TLV1117LV33DCYR  LDO FIXE 3.3V 1A SOT-223-4"
+"D3","TopLayer","TVS1608","68.9000","22.9728","270","ESD Suppressors / TVS Diodes 0.25pFA 24V 0603 AEC-Q200"
+"Q1","TopLayer","SOT-363-6","70.6482","15.0671","90","Bipolar Transistors - BJT SS GP XSTR PNP 40V"
+"R10","TopLayer","RESC1608N","67.8046","16.1319","180","Résistances à couches épaisses - CMS 2.2K OHM 5%"
+"R9","TopLayer","RESC1608N","67.4487","19.0884","90","Résistances à couches épaisses - CMS 1/10watt 240ohms 1%"
+"R8","TopLayer","RESC1608N","68.9924","19.0822","270","Résistances à couches épaisses - CMS 1/10Watt 10ohms 1% Commercial Use"
+"L2","TopLayer","IND1608N","70.5800","21.3377","90","Fixed Inductors 27nH 300mA 5%"
+"C16","TopLayer","CAPC1608N","70.5319","12.4005","180","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C15","BottomLayer","CAPC1608N","62.5309","20.7334","270","Condensateurs céramique multicouches MLCC - CMS 0603 50Vdc 1.0uF X5R 10%"
+"U5","TopLayer","NEO-M8N","59.2938","16.2560","0","NEO-M8 RF Receiver BeiDou, Galileo, GLONASS, GNSS, GPS 1.575GHz -167dBm"
+"C5","TopLayer","CAPC1608N","19.1518","4.9631","270","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C4","TopLayer","CAPC1608N","20.6758","4.9631","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"
+"U2","TopLayer","SOT-23-6","18.1059","14.1006","180","Switching Voltage Regulators Automotive qualified SIMPLE SWITCHER 4-V to 36-V, 1-A synchronous step-down converter 6-SOT-23 -40 to 150"
+"R2","TopLayer","RESC1608N","21.8362","15.0733","180","Résistances à couches épaisses - CMS 1/10watt 22.1Kohms 1%"
+"R1","TopLayer","RESC1608N","21.0269","12.7036","270","Résistances à couches épaisses - CMS 88.7K ohm 1%"
+"L1","TopLayer","IND4020","19.4609","8.7666","0","Fixed Inductors WE-MAPI 15uH 1.9A DCR=230mOhms AECQ200"
+"C9","TopLayer","CAPC1608N","17.6378","16.6370","180","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C8","TopLayer","CAPC1608N","17.6378","18.0340","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7UF 16V 10% 0603"
+"C6","TopLayer","CAPC1608N","22.5579","12.5949","270","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp"
+"C1","TopLayer","CAPC1608N","18.7409","11.6876","0","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"FB1","TopLayer","FB3216","27.0358","13.9700","90","2512067007Y3 -  Perle de ferrite, 1206 [3216 Metric], 70 ohm, 3 A, 0.04 ohm, ± 25%"
+"C3","TopLayer","CAPC1608N","29.9143","10.8097","180","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"
+"C2","TopLayer","CAPC1608N","29.9263","12.3337","0","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"U8","TopLayer","SOT-23-6","38.7198","14.9860","90","Analogue Switch ICs SPDT Analog Switchc"
+"U6","TopLayer","SOT-23-6","43.6728","14.9860","90","Analogue Switch ICs SPDT Analog Switchc"
+"FID3","TopLayer","FIDUCIAL-1MM","66.4000","3.5000","90","_"
+"FID2","TopLayer","FIDUCIAL-1MM","11.3000","47.0000","90","_"
+"FID1","TopLayer","FIDUCIAL-1MM","66.6000","47.0000","0","_"
+"C14","TopLayer","CAPC1608N","29.1943","31.7344","180","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"U7","TopLayer","ODIN-W26","44.7480","36.7065","180","RX TXRX MODULE WIFI CHIP SMD"
+"C25","TopLayer","CAPC1608N","53.4646","26.9763","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"
+"C24","TopLayer","CAPC1608N","54.9501","26.9722","270","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"J1","TopLayer","CUI_TBP01R1-508-02BE","8.3000","13.5000","90","Pluggable Terminal Blocks Terminal block, pluggable, 5.08, receptical, 2 pole, blue"
+"FB3","TopLayer","FB2012","50.3800","12.7028","0","Ferrite Beads 0805 1000ohms 250mA Auto Infotainment"
+"FB2","TopLayer","FB2012","50.3694","14.2887","0","Ferrite Beads 0805 1000ohms 250mA Auto Infotainment"
+"S1","TopLayer","218250270","6.1500","24.5000","270","Tactile Switches R/A TACT 160G PB SWITCH"
+"R12","TopLayer","RESC1608N","54.3809","42.4627","180","Résistances à couches épaisses - CMS 0603 1Kohms 5% AEC-Q200"
+"R11","TopLayer","RESC1608N","54.3739","40.9838","180","Résistances à couches épaisses - CMS 0603 1Kohms 5% AEC-Q200"
+"R4","TopLayer","RESC1608N","22.7636","32.8531","0","Résistances à couches épaisses - CMS 0603 1Kohms 5% AEC-Q200"
+"R5","TopLayer","RESC1608N","22.8448","36.3220","0","Résistances à couches épaisses - CMS 2.7K OHM 5%"
+"R3","TopLayer","RESC1608N","22.7636","29.6046","0","Résistances à couches épaisses - CMS 0603 1Kohms 5% AEC-Q200"
+"U4","TopLayer","VSSOP-8","26.4008","33.2740","270","Buffers & Line Drivers Triple w/ OD"
+"J3","TopLayer","KMDGX6SBS","41.1000","6.3000","180","Circular DIN Connectors 6P R/A FULL SHIELD GOLD PLANTED"
+"J2","TopLayer","PCB.SMAFRA.HT","75.5500","22.1000","180","Connecteurs RF / Connecteurs coaxiaux SMA RA PCB Mount, Jack, Gold, 50 , Through Hole Pin"
+"D1","TopLayer","MB6S","13.0659","15.3670","180","Redresseurs en pont .5A 600V"
+"C21","TopLayer","CAPC1608N","38.7198","18.6690","270","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C23","TopLayer","CAPC1608N","49.9162","9.6228","90","Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"
+"C22","TopLayer","CAPC1608N","51.4060","9.6103","270","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C20","TopLayer","CAPC1608N","43.6728","18.6690","270","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C17","TopLayer","CAPC1608N","10.0000","24.0000","90","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C19","TopLayer","CAPC1608N","53.4518","30.8610","270","Condensateurs céramique multicouches MLCC - CMS 0603 50Vdc 1.0uF X5R 10%"
+"C18","TopLayer","CAPC1608N","54.9758","30.8610","270","Condensateurs céramique multicouches MLCC - CMS 50V .1uF X7R 0603 10% AEC-Q200"
+"C7","TopLayer","ECAP_SMD_6.3","16.8758","23.2410","90","PANASONIC ELECTRONIC COMPONENTS  EEEFK1V101XP  CONDENSATEUR ELEC ALU 100UF 35V CMS"

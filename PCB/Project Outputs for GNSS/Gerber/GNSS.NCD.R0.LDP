@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\WORKSPACE\NEO-M8N-ODIN-W262-GPS\PCB\GNSS_PCB.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=gnss.ncd.r0-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=gnss.ncd.r0-nonplated.txt|DrillLayers=gtl,gbl
