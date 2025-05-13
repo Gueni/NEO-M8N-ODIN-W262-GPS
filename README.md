@@ -5,9 +5,16 @@ This project features a dual GPS/Bluetooth PCB design using:
 - **ODIN-W262** (Part: `672-ODIN-W262-05BTR-ND`) for Bluetooth communication  
 - A custom **PS/2-based connector** to enable programming mode automatically via pin shorting
 
+<p align="center">
+  <img  src="rendering\assem.png">
+</p>
+
 The system is compact, enclosed, and fully programmable without disassembly — using a smart GND-detection feature via the PS/2 port.
 
 ---
+<p align="center">
+  <img  src="rendering\front.PNG">
+</p>
 
 ## 💡 Features
 
@@ -20,6 +27,10 @@ The system is compact, enclosed, and fully programmable without disassembly — 
 - **Connector**: 6-pin PS/2 Mini-DIN style programming interface
 
 ---
+
+<p align="center">
+  <img  src="rendering\back.PNG">
+</p>
 
 ## 🔌 Pinout (PS/2 Connector)
 
@@ -36,6 +47,19 @@ The system is compact, enclosed, and fully programmable without disassembly — 
 
 ---
 
+<p align="center">
+  <img  src="rendering\front3D.JPG">
+</p>
+
+<p align="center">
+  <img  src="rendering\out.JPG">
+</p>
+
+<p align="center">
+  <img  src="rendering\side1.JPG">
+</p>
+
+
 ## 🛠 Programming Instructions
 
 1. Plug in the PS/2 connector from the programming device.
@@ -44,6 +68,14 @@ The system is compact, enclosed, and fully programmable without disassembly — 
 4. Flash via standard tools (e.g., STM32CubeProgrammer, esptool.py, depending on MCU).
 
 ---
+
+<p align="center">
+  <img  src="rendering\side2.JPG">
+</p>
+
+<p align="center">
+  <img  src="rendering\side3.JPG">
+</p>
 
 ## 🧪 Testing & Debug
 
